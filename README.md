@@ -318,5 +318,3 @@ CARA is a modern full-stack e-commerce application demonstrating frontend, backe
 
 
 ---
-
-If you want, I can also create an **advanced README with screenshots, badges, live demo section, and recruiter-attractive formatting** that increases your chances of getting internships 💼.
