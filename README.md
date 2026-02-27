@@ -317,4 +317,4 @@ ISC License
 CARA is a modern full-stack e-commerce application demonstrating frontend, backend, and database integration. It follows best practices and is scalable for production use.
 
 
----
+
