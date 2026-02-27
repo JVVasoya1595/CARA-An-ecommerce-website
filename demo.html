@@ -1,0 +1,16 @@
+<html>
+<script>
+function call()
+{
+    const obj=JSON.parse(`{"name":"xyz","age":"17","dob":"1997-03-14"}`);
+console.log(obj.dob);
+a = new Date(obj.dob);
+document.write(a); 
+}
+
+</script>
+<body>
+ <P id="demo"> </P>
+ <button onclick="call()"> Click Me </button>
+</body>
+</html>
